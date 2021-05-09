@@ -37,12 +37,12 @@ Below are the screenshots of the image
 
 
 
-5) Main page showing current location of the user-
+5) Main page showing current location of the user. When 'Locate User' button is clicked, map will point to the current location of user and all the markers of the vehicles on the screen is removed-
 
 <img src="Images/carapp_mylocation.jpg" height="550" width="280">
 
 
 
-6) Profile page-
+6) Profile page. When user clicks on 'Logout' button, user is logged out of the application and redirected to the login page-
 
 <img src="Images/carapp_user.jpg" height="550" width="280">
