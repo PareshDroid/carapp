@@ -10,6 +10,8 @@ This example contains different screens like -Login, Registration, Main Page tha
 Below is the architecture diagram(Image references::https://developer.android.com/jetpack/docs/guide)
 ![](Images/mvvm.PNG)
 
+<img src="Images/mvvm.PNG" height="550" width="280">
+
 Below are the screenshots of the image
 1) Splash Page-
 
