@@ -25,6 +25,14 @@ Below are the screenshots of the image
 
 <img src="Images/carapp_signup.jpg" height="550" width="280">
 
-3) Profile page-
+4) Main Page showing locations of all vehicles, including custom image(custom marker) of the vehicle. Once user clicks on the vehicle, license plate number of the vehicle is shown-
+
+<img src="Images/carapp_allcars.jpg" height="550" width="280">
+
+5) Main page showing current location of the user-
+
+<img src="Images/carapp_mylocation.jpg" height="550" width="280">
+
+6) Profile page-
 
 <img src="Images/carapp_user.jpg" height="550" width="280">
