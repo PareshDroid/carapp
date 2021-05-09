@@ -21,8 +21,8 @@ Below are the screenshots of the image
 
 3) Registration Page-
 
-<img src="Images/carapp_signup.png" height="550" width="280">
+<img src="Images/carapp_signup.jpg" height="550" width="280">
 
 3) Profile page-
 
-<img src="Images/carapp_user.png" height="550" width="280">
+<img src="Images/carapp_user.jpg" height="550" width="280">
